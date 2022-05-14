@@ -8,4 +8,4 @@ I will give detailed explanation later.
 
 <a href="https://006-vowel-count.netlify.app/" target="_blank">Vowel Count App</a>
 
-<a href="https://www.linkpicture.com/view.php?img=LPic627fc72b9e42f1444066051"><img src="https://www.linkpicture.com/q/Screenshot-from-2022-05-14-18-13-31.png" type="image"></a>
+https://www.linkpicture.com/q/Screenshot-from-2022-05-14-18-13-31.png
